@@ -24,10 +24,10 @@ You can then launch *jupyter lab*, either from the Anaconda user interface, or t
 
 The notebooks can be run in your browser either:
 
-* ...using [Binder](https://mybinder.org/)...
+* using [Binder](https://mybinder.org/)...
   
-  * ...by clicking the button at the top of the repo
+  * ...by clicking the button at the top of the repo!
   
 * using [Colab](https://colab.research.google.com/)...
   
-  * by clicking the button(s) a at the top of each notebook (Google account required!)
+  * ...by clicking the buttons  at the top of each notebook (Google account required)!

@@ -1,4 +1,5 @@
 rise
+jupyterlab_rise
 numpy
 pandas
 matplotlib
