@@ -2,11 +2,11 @@
 
 # UCL CEGE Introduction to Python
 
-This repository contains the notebooks for the UCL CEGE Introduction to Python workshop, run by Dr Tim Hillel. 
+This repository contains the notebooks for the UCL CEGE Introduction to Python workshops, run by Dr Tim Hillel. 
 
-The notebooks are designed to introduce the fundamentals of coding in [Python](https://docs.python.org/3.9/), and make you familiar with three commonly used libraries:
+The notebooks are designed to introduce the fundamentals of coding in [Python](https://docs.python.org/3/), and make you familiar with three commonly used libraries:
 1. [*numpy*](https://numpy.org/doc/1.23/) for handling arrays (similar to MATLAB), 
-2. [*matplotlib*](https://matplotlib.org/stable/index.html) for plotting and visualising data, and 
+2. [*matplotlib*](https://numpy.org/doc/stable/index.html) for plotting and visualising data, and 
 3. [*pandas*](https://pandas.pydata.org/docs/) for handling data tables (similar to Excel)
 
 ## Notebooks
@@ -22,6 +22,12 @@ You can then launch *jupyter lab*, either from the Anaconda user interface, or t
 
 ## Running on browser
 
-The notebooks can be run in your browser using [Binder](https://mybinder.org/v2/gh/big-ucl/intro-python/HEAD). 
+The notebooks can be run in your browser either:
 
-Note, the notebooks can take a while (5 minutes) to load, so please load the link whilst you are waiting. 
+* ...using [Binder](https://mybinder.org/)...
+  
+  * ...by clicking the button at the top of the repo
+  
+* using [Colab](https://colab.research.google.com/)...
+  
+  * by clicking the button(s) a at the top of each notebook (Google account required!)
